@@ -1,0 +1,2 @@
+C:/Users/ibrahim/Desktop/MobilDenemeler/BilgiYarismasiYeni/android/app/.cxx/RelWithDebInfo/5z6q2c17/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ibrahim/Desktop/MobilDenemeler/BilgiYarismasiYeni/android/app/.cxx/RelWithDebInfo/5z6q2c17/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/ibrahim/Desktop/MobilDenemeler/BilgiYarismasiYeni/android/app/.cxx/Debug/214p20i6/x86/CMakeFiles/edit_cache.dir
+C:/Users/ibrahim/Desktop/MobilDenemeler/BilgiYarismasiYeni/android/app/.cxx/Debug/214p20i6/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,252 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Türkiye'nin başkenti neresidir?",
+      "options": ["İstanbul", "Ankara", "İzmir", "Bursa"],
+      "correct_answer": "Ankara",
+      "category": "Genel Kültür",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 2,
+      "question": "Kadıköy'ün eski adı nedir?",
+      "options": ["Kalkedon", "Fatih", "Athena", "Apollon"],
+      "correct_answer": "Kalkedon",
+      "category": "Tarih",
+      "difficulty": "Orta"
+    },
+    {
+      "id": 3,
+      "question": "Ay hangi gezegenin uydusudur?",
+      "options": ["Mars", "Venüs", "Dünya", "Jüpiter"],
+      "correct_answer": "Dünya",
+      "category": "Bilim",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 4,
+      "question": "\"Küçük Prens\" kitabının yazarı kimdir?",
+      "options": ["Antoine de Saint-Exupéry", "Jules Verne", "Victor Hugo", "Albert Camus"],
+      "correct_answer": "Antoine de Saint-Exupéry",
+      "category": "Edebiyat",
+      "difficulty": "Orta"
+    },
+    {
+      "id": 5,
+      "question": "En uzun nehir hangisidir?",
+      "options": ["Amazon", "Nil", "Fırat", "Dicle"],
+      "correct_answer": "Nil",
+      "category": "Coğrafya",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 6,
+      "question": "Osmanlı Devleti'nin kurucusu kimdir?",
+      "options": ["Fatih Sultan Mehmet", "Kanuni Sultan Süleyman", "Osman Bey", "Yavuz Sultan Selim"],
+      "correct_answer": "Osman Bey",
+      "category": "Tarih",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 7,
+      "question": "Suyun kaynama noktası kaç derecedir (deniz seviyesinde)?",
+      "options": ["90°C", "100°C", "110°C", "120°C"],
+      "correct_answer": "100°C",
+      "category": "Bilim",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 8,
+      "question": "\"Mona Lisa\" tablosu hangi ünlü ressama aittir?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Salvador Dalí"],
+      "correct_answer": "Leonardo da Vinci",
+      "category": "Sanat",
+      "difficulty": "Orta"
+    },
+    {
+      "id": 9,
+      "question": "Türkiye'nin en kalabalık şehri hangisidir?",
+      "options": ["Ankara", "İzmir", "Bursa", "İstanbul"],
+      "correct_answer": "İstanbul",
+      "category": "Coğrafya",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 10,
+      "question": "Futbolda bir takım kaç oyuncudan oluşur?",
+      "options": ["9", "10", "11", "12"],
+      "correct_answer": "11",
+      "category": "Spor",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 11,
+      "question": "İstiklal Marşı'mızın şairi kimdir?",
+      "options": ["Yahya Kemal Beyatlı", "Mehmet Akif Ersoy", "Nazım Hikmet Ran", "Orhan Veli Kanık"],
+      "correct_answer": "Mehmet Akif Ersoy",
+      "category": "Edebiyat",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 12,
+      "question": "Bir üçgenin iç açıları toplamı kaç derecedir?",
+      "options": ["90", "180", "270", "360"],
+      "correct_answer": "180",
+      "category": "Matematik",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 13,
+      "question": "Fransız İhtilali hangi yılda başlamıştır?",
+      "options": ["1776", "1789", "1804", "1815"],
+      "correct_answer": "1789",
+      "category": "Tarih",
+      "difficulty": "Zor"
+    },
+    {
+      "id": 14,
+      "question": "Hangi element periyodik tabloda 'O' sembolü ile gösterilir?",
+      "options": ["Osmiyum", "Oksijen", "Altın", "Azot"],
+      "correct_answer": "Oksijen",
+      "category": "Bilim",
+      "difficulty": "Orta"
+    },
+    {
+      "id": 15,
+      "question": "Wolfgang Amadeus Mozart hangi müzik aletinde virtüöz olarak kabul edilir?",
+      "options": ["Gitar", "Keman", "Piyano", "Flüt"],
+      "correct_answer": "Piyano",
+      "category": "Müzik",
+      "difficulty": "Orta"
+    },
+    {
+      "id": 16,
+      "question": "Dünya'nın en yüksek dağı hangisidir?",
+      "options": ["K2", "Everest", "Kangchenjunga", "Lhotse"],
+      "correct_answer": "Everest",
+      "category": "Coğrafya",
+      "difficulty": "Orta"
+    },
+    {
+      "id": 17,
+      "question": "Nobel Edebiyat Ödülü'nü kazanan ilk Türk yazar kimdir?",
+      "options": ["Yaşar Kemal", "Aziz Nesin", "Orhan Pamuk", "Elif Şafak"],
+      "correct_answer": "Orhan Pamuk",
+      "category": "Edebiyat",
+      "difficulty": "Zor"
+    },
+    {
+      "id": 18,
+      "question": "\"Star Wars\" film serisinin yaratıcısı kimdir?",
+      "options": ["Steven Spielberg", "James Cameron", "George Lucas", "Christopher Nolan"],
+      "correct_answer": "George Lucas",
+      "category": "Sinema",
+      "difficulty": "Orta"
+    },
+    {
+      "id": 19,
+      "question": "Yunan mitolojisinde baş tanrı kimdir?",
+      "options": ["Poseidon", "Hades", "Apollon", "Zeus"],
+      "correct_answer": "Zeus",
+      "category": "Mitoloji",
+      "difficulty": "Orta"
+    },
+    {
+      "id": 20,
+      "question": "Türkiye Büyük Millet Meclisi (TBMM) hangi yıl açılmıştır?",
+      "options": ["1919", "1920", "1922", "1923"],
+      "correct_answer": "1920",
+      "category": "Tarih",
+      "difficulty": "Orta"
+    },
+    {
+      "id": 21,
+      "question": "Fotosentez sırasında bitkiler hangi gazı atmosferden alır?",
+      "options": ["Oksijen", "Karbondioksit", "Azot", "Hidrojen"],
+      "correct_answer": "Karbondioksit",
+      "category": "Bilim",
+      "difficulty": "Orta"
+    },
+    {
+      "id": 22,
+      "question": "Hangi şehir \"Ege'nin İncisi\" olarak bilinir?",
+      "options": ["Antalya", "Muğla", "Aydın", "İzmir"],
+      "correct_answer": "İzmir",
+      "category": "Coğrafya",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 23,
+      "question": "\"Sefiller\" romanının yazarı kimdir?",
+      "options": ["Lev Tolstoy", "Charles Dickens", "Victor Hugo", "Fyodor Dostoyevski"],
+      "correct_answer": "Victor Hugo",
+      "category": "Edebiyat",
+      "difficulty": "Orta"
+    },
+    {
+      "id": 24,
+      "question": "DNA'nın yapısını keşfeden bilim insanları kimlerdir?",
+      "options": ["Marie Curie ve Pierre Curie", "Albert Einstein ve Max Planck", "James Watson ve Francis Crick", "Isaac Newton ve Galileo Galilei"],
+      "correct_answer": "James Watson ve Francis Crick",
+      "category": "Bilim",
+      "difficulty": "Zor"
+    },
+    {
+      "id": 25,
+      "question": "Olimpiyat Oyunları kaç yılda bir düzenlenir?",
+      "options": ["2", "3", "4", "5"],
+      "correct_answer": "4",
+      "category": "Spor",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 26,
+      "question": "Türkiye'nin uluslararası telefon kodu nedir?",
+      "options": ["+90", "+1", "+44", "+49"],
+      "correct_answer": "+90",
+      "category": "Genel Kültür",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 27,
+      "question": "Galatasaray futbol takımı UEFA Kupası'nı hangi yıl kazanmıştır?",
+      "options": ["1998", "1999", "2000", "2001"],
+      "correct_answer": "2000",
+      "category": "Spor",
+      "difficulty": "Orta"
+    },
+    {
+      "id": 28,
+      "question": "Pi sayısı (π) yaklaşık olarak kaçtır?",
+      "options": ["2.71", "3.14", "1.61", "4.00"],
+      "correct_answer": "3.14",
+      "category": "Matematik",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 29,
+      "question": "Hangi gezegen 'Kızıl Gezegen' olarak da bilinir?",
+      "options": ["Venüs", "Mars", "Jüpiter", "Satürn"],
+      "correct_answer": "Mars",
+      "category": "Bilim",
+      "difficulty": "Kolay"
+    },
+    {
+      "id": 30,
+      "question": "Piri Reis tarafından çizilen ve Amerika kıtasını gösteren ünlü harita hangi yüzyıla aittir?",
+      "options": ["14. yüzyıl", "15. yüzyıl", "16. yüzyıl", "17. yüzyıl"],
+      "correct_answer": "16. yüzyıl",
+      "category": "Tarih",
+      "difficulty": "Zor"
+    },
+    {
+      "id": 31,
+      "question": "Fransız İhtilali hangi yılda başlamıştır?",
+      "options": ["1776", "1789", "1804", "1815"],
+      "correct_answer": "1789",
+      "category": "Hayat",
+      "difficulty": "Zor"
+    }
+  ]
+} 
