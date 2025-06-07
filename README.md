@@ -16,4 +16,4 @@ Bu proje, mobil cihazlar için geliştirilmiş bir **Bilgi Yarışması (Quiz Ga
 
 > Uygulama Android Studio ile geliştirilmiştir.
 
-[![Proje Tanıtımı](https://img.youtube.com/vi/Uw7aGDromis/hqdefault.jpg)](https://www.youtube.com/watch?v=Uw7aGDromis)
+![video](https://github.com/user-attachments/assets/3fbe4bb8-b7e0-47ab-a731-80ceefac9dc3)
