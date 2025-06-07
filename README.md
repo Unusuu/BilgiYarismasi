@@ -14,13 +14,6 @@ Bu proje, mobil cihazlar için geliştirilmiş bir **Bilgi Yarışması (Quiz Ga
 
 ---
 
-## 🛠️ Kurulum ve Çalıştırma
-
 > Uygulama Android Studio ile geliştirilmiştir.
-
-1. Bu projeyi klonlayın:
-
-```bash
-git clone https://github.com/Unusuu/BilgiYarismasi.git
 
 [![Proje Tanıtımı](https://img.youtube.com/vi/Uw7aGDromis/hqdefault.jpg)](https://www.youtube.com/watch?v=Uw7aGDromis)
