@@ -23,4 +23,4 @@ Bu proje, mobil cihazlar için geliştirilmiş bir **Bilgi Yarışması (Quiz Ga
 ```bash
 git clone https://github.com/Unusuu/BilgiYarismasi.git
 
-![video](https://github.com/user-attachments/assets/93587bd0-2beb-4795-8cb9-20ce8c3bb9bf)
+[![Proje Tanıtımı](https://img.youtube.com/vi/Uw7aGDromis/hqdefault.jpg)](https://www.youtube.com/watch?v=Uw7aGDromis)
