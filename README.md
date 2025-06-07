@@ -22,3 +22,7 @@ Bu proje, mobil cihazlar için geliştirilmiş bir **Bilgi Yarışması (Quiz Ga
 
 ```bash
 git clone https://github.com/Unusuu/BilgiYarismasi.git
+
+
+https://github.com/user-attachments/assets/c124b3e1-acae-4741-99e7-e748eecd285a
+
